@@ -9,6 +9,16 @@ http://feeds.feedburner.com/nigeriabitcoincommunity
 http://infoonbitcoin.com/feed/
 http://www.bitcoinbazis.hu/feed/
 http://www.thecryptoquartet.com/feed/
+https://www.bitdegree.org/crypto/news/rss
+https://www.bitdegree.org/crypto/news/bitcoin/rss
+https://www.bitdegree.org/crypto/news/ethereum/rss
+https://www.bitdegree.org/crypto/news/altcoins/rss
+https://www.bitdegree.org/crypto/news/blockchain/rss
+https://www.bitdegree.org/crypto/news/nfts/rss
+https://www.bitdegree.org/crypto/news/defi/rss
+https://www.bitdegree.org/crypto/news/dapps/rss
+https://www.bitdegree.org/crypto/news/wallets/rss
+https://www.bitdegree.org/crypto/news/exchanges/rss
 https://7bitcoins.com/feed/
 https://99bitcoins.com/feed/
 https://about.crunchbase.com/blog/feed/
